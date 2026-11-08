@@ -1,4 +1,4 @@
-<a href="https://unsplash.com/photos/a-long-empty-road-disappearing-into-fog-6GmAvTz-QwY">
+<a href="https://unsplash.com/photos/two-figures-walk-down-a-dirt-road-at-sunset--lCQhQ1Ueik">
   <img src="assets/road-remains.jpg" alt="雾夜里延伸向远方的道路" width="100%">
 </a>
 
