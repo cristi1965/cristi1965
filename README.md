@@ -1,3 +1,9 @@
+<a href="https://unsplash.com/photos/a-foggy-road-with-streetlights-at-night-cfrYlF6uYnM">
+  <img src="assets/road-remains.jpg" alt="雾夜里延伸向远方的道路" width="100%">
+</a>
+
+<br>
+
 <div align="center">
 
 # 路还在
