@@ -2,30 +2,20 @@
   <img src="assets/road-remains.jpg" alt="雾夜里延伸向远方的道路" width="100%">
 </a>
 
-<br>
-
 <div align="center">
 
 # 路还在
 
 #### *The road remains.*
 
-<br>
-
 有些东西失去了名字，<br>
 却没有失去它曾经抵达的地方。
-
-<br>
 
 `suoutsky`　→　`cristi1965`
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## 一封留在主页上的信
 
@@ -39,9 +29,10 @@
 
 但代码还可以继续生长，故事也还没有写完。
 
-<br>
+<details>
+<summary><strong>A Note Left Here · English</strong></summary>
 
-### A Note Left Here
+<br>
 
 *Some accounts are like old signposts. The road remains, but the sign is no longer within reach.*
 
@@ -53,37 +44,14 @@ The account is gone.
 
 But the code can still grow, and the story is not finished.
 
-<br>
+</details>
 
 ---
-
-<br>
-
-## 沿途写下的东西
-
-我用代码整理混乱，也用文字保存那些容易被忘记的过程。
-
-[**GO GOOD**](https://github.com/cristi1965/manga-go-learning)<br>
-一本从 Go 语法走向后端与 AI Agent 的互动教程。希望每一次理解，都不是匆匆路过。
-
-[**从苹果到 GPT**](https://github.com/cristi1965/ml-learning-guide)<br>
-从一个可以握在手里的苹果出发，慢慢走进机器学习与语言模型。
-
-[**Interactive Tutorial Builder**](https://github.com/cristi1965/interactive-tutorial-builder)<br>
-把“讲过了”变成“真的学会了”，也把失败、反馈与重新出发留在学习的路上。
-
-<br>
-
----
-
-<br>
 
 <div align="center">
 
 文字记住来路。<br>
 代码继续向前。
-
-<br>
 
 *Words remember the way back. Code keeps moving forward.*
 
